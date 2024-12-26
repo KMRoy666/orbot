@@ -1,7 +1,7 @@
 package org.torproject.android.core
 
 import android.content.Intent
-import org.torproject.android.service.OrbotConstants
+
 
 /**
  * Used to build Intents in Orbot, annoyingly we have to set this when passing Intents to
